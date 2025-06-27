@@ -17,7 +17,7 @@ A simple and efficient web-based QR code generator.
 
 A simple web-based **Dice Game** using HTML, CSS, and JavaScript. Two dice are rolled and the player with the higher This project is a web application designed to generate QR codes from various input types, primarily text and URLs. It provides a straightforward interface for users to quickly create scannable QR codes. This tool can be useful for sharing links, contact information, Wi-Fi details, or any short text in a scannable format.
 
-![Screenshot of the project's main interface](./image.png)
+![Screenshot of the project's main interface](./qr-img.png)
 
 ## Features
 
